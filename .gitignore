@@ -24,3 +24,5 @@ xcuserdata
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
+Solitaire/.DS_Store
+.DS_Store
